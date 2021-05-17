@@ -92,3 +92,22 @@
   Ici, l'étiquette se nomme `saisie`. Cela permet d'accéder à la valeur de `val` sous un autre nom. 
   
 </details>
+
+
+
+<details>
+  <summary>
+    Manipulations
+  </summary>
+  
+  **MOVE**
+  Equivalent à `=`.
+  
+  ```cobol
+  PROCEDURE DIVISION.
+  
+  MOVE 5 TO a b c.
+  ```
+</details>
+
+
